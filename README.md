@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulek&label=Profile%20views&color=0e75b6&style=flat" alt="abdulek" /> </p>
 
-- 🔭 I’m currently working on Ekatta Innovators 
+- 🔭 I’m currently working at Ekatta Innovators 
 
 - 🌱 I’m currently learning **Vue js,Docker**
 
